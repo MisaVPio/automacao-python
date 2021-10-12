@@ -1,6 +1,7 @@
 ### Automação com Python
 
 1 - Enviando relatório de email
+
 Passos:
 * A partir do google crhome, abre uma nova aba na qual o python tem controle através do mouse e teclado
 * Seleciona o arquivo e faz o download
@@ -17,6 +18,7 @@ Ferramentas utilizadas:
 * jupyter notebook como IDE
 
 2 - Movendo arquivos
+
 Passos:
 * Abre o gerenciador de arquivos
 * Navega até a pasta fonte
