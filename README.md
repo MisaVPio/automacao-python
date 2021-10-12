@@ -9,7 +9,9 @@ Passos:
 * Abre novamente o navegador e insere o caminho do email
 * Cria uma mensagem e envia ao destinatário
 * Fecha a nova aba
+
 Ferramentas utilizadas:
+
 * pyautogui para manipulação de mouse e teclado
 * time para pausas durante a execução
 * jupyter notebook como IDE
@@ -21,7 +23,9 @@ Passos:
 * Move os arquivos até a pasta destino
 * Navega até a pasta destino
 * Fecha o gerenciador de arquivos
+
 Ferramentas utilizadas:
+
 * pyautogui para manipulação de mouse e teclado
 * time para pausas durante a execução
 * os para mover os arquivos
